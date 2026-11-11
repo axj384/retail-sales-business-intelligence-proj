@@ -17,5 +17,6 @@ Cards: Total Revenue, Orders, Average Order Value. Visuals: Monthly Revenue line
 ## Key definitions
 Revenue = units × unit price × (1 − discount). Order ID is unique in the sample. Data are **synthetic**, not a real retailer's transactions.
 
-## Interview talking point
-Explain SQL aggregation, revenue metric validation, chart design, and how you would translate the findings into marketing or assortment decisions.
+## Sales Performance Visualization
+
+![Monthly Retail Revenue](figures/monthly_revenue.png)
